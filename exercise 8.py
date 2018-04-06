@@ -24,3 +24,5 @@ elif player1_input == b and player2_input == b:
 elif player1_input == c and player2_input == c:
     print("DRAWWWWWWWWWWWWWWWW")
 
+else:
+    print("INVALID !!")
